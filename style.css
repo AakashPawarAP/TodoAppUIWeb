@@ -250,12 +250,6 @@ body {
     transition: background-color 1s;
 }
 
-.page-change:hover{
-    background-color:white ;
-    border: 2px solid chocolate;
-    color:chocolate;
-    
-}
 
 
 .trip-flex-mobile{
